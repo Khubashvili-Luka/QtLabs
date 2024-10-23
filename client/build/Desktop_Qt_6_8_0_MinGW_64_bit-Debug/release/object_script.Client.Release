@@ -1,0 +1,11 @@
+release/AuthWindow.o
+release/clientfunctions.o
+release/main.o
+release/mainwindow.o
+release/network.o
+release/taskform.o
+release/teacherwindow.o
+release/moc_AuthWindow.o
+release/moc_mainwindow.o
+release/moc_taskform.o
+release/moc_teacherwindow.o
